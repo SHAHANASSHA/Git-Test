@@ -1,4 +1,0 @@
-Result Module
-- Subject wise marks
-- Total score
-- Grade
