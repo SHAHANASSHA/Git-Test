@@ -1,5 +1,0 @@
-Exam Portal
------------
-Modules:
-- Login
-- Result
